@@ -1,0 +1,7 @@
+Luz Ambiente versión 1.3
+Compilación, lint y 16 pruebas JVM: correctos.
+Android 12 API 31: siete pruebas de persistencia, correo, migración y seguridad aprobadas.
+Prueba de interfaz con toques: registro con usuario/correo, cierre de sesión, ingreso por correo y selección de simulación aprobada.
+La prueba de interfaz se repitió con un tiempo de espera ampliado para la derivación de contraseña en el emulador sin aceleración.
+Firma debug conservada para instalar como actualización.
+Comprobación del Redmi 9T y el circuito físico: pendiente.
